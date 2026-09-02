@@ -1,4 +1,4 @@
-# QueryMind
+# DataInSight
 
 **Agentic Business Intelligence assistant — ask questions about CSV/Excel data in plain English.**
 
@@ -8,7 +8,7 @@
 [![Groq](https://img.shields.io/badge/Groq-LLaMA%203.3%2070B-F55036?style=flat-square)](https://groq.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
-Upload a spreadsheet, ask in natural language, and QueryMind autonomously runs Pandas/SQL analysis, builds charts, and returns an explained answer. Built to demonstrate agentic tool use end to end.
+Upload a spreadsheet, ask in natural language, and DataInSight autonomously runs Pandas/SQL analysis, builds charts, and returns an explained answer. Built to demonstrate agentic tool use end to end.
 
 ---
 
