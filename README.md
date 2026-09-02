@@ -49,8 +49,8 @@ Ask question → /chat  → agent picks tools → code execution → answer (+ o
 **Prerequisites:** Python 3.10+, free [Groq API key](https://console.groq.com)
 
 ```bash
-git clone https://github.com/Znaxh/QueryMind.git
-cd QueryMind
+git clone "repo link"
+cd DataInsight
 
 python -m venv venv
 source venv/bin/activate   # Windows: venv\Scripts\activate
@@ -117,12 +117,4 @@ QueryMind/
 - [ ] Auth + saved sessions
 - [ ] Live database connectors
 
----
-
-## Author
-
-**Anurag Pratap Singh** · [GitHub](https://github.com/Znaxh) · [Portfolio](https://znaxh.vercel.app/)
-
-## License
-
-MIT — see [LICENSE](LICENSE).
+--
